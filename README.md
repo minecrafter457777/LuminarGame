@@ -2,6 +2,9 @@
 
 **LuminarGame** — це український Minecraft-сервер з реалістичною економікою, правилами та дружньою спільнотою. Сервер працює на версії **Minecraft Java 1.20.1** та доступний для всіх гравців, як ліцензійних, так і на піратських копіях.
 
+**гітхаб сайт:**
+minecrafter457777.github.io/LuminarGame/
+
 **IP для підключення:** LuminarGame.aternos.me  
 **Discord:** https://discord.gg/QJmKASmaTJ    
 
